@@ -1,3 +1,11 @@
 transformers==4.27.2
 torch==2.2.0
 datasets==2.17.0
+langchain==0.1.8
+langchain-community==0.0.21
+langchain-openai==0.0.6
+langchainhub==0.1.14
+tavily-python==0.3.1
+python-dotenv==1.0.1
+faiss-cpu==1.7.4
+bs4==0.0.2
