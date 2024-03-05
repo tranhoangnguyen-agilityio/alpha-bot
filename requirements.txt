@@ -10,3 +10,7 @@ python-dotenv==1.0.1
 faiss-cpu==1.7.4
 bs4==0.0.2
 fireworks-ai==0.12.1
+numexpr==2.9.0
+chromadb==0.4.24
+langchain_text_splitters==0.0.1
+wikipedia==1.4.0
