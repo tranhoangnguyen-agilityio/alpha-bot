@@ -14,3 +14,8 @@ numexpr==2.9.0
 chromadb==0.4.24
 langchain_text_splitters==0.0.1
 wikipedia==1.4.0
+
+# LangChain Virualizer
+
+# https://pypi.org/project/langchain-visualizer/
+langchain_visualizer @ git+https://github.com/tranhoangnguyen-agilityio/langchain-visualizer@main
