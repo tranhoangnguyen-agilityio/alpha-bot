@@ -19,3 +19,9 @@ wikipedia==1.4.0
 
 # https://pypi.org/project/langchain-visualizer/
 langchain_visualizer @ git+https://github.com/tranhoangnguyen-agilityio/langchain-visualizer@main
+
+# T5Tokenizer requires the SentencePiece
+# https://pypi.org/project/sentencepiece/
+sentencepiece==0.2.0
+docarray==0.40.0
+tiktoken==0.5.2
